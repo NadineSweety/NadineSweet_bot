@@ -1,2 +1,3 @@
-# NadineSweet_bot
-My sweet Nadine bot
+# NadineSweet Bot
+
+Telegram bot setup for محمد.
